@@ -281,8 +281,7 @@ Place these files in the project root:
 
 ## 👨‍💻 Author Information
 
-- **Made By**: Abdullah Alotaibi, Abdulmalik Alotaibi, Mohammed Aljabri
-- **Course**: SELECTED TOPICS IN COMPUTER SCIENCE 491
+- **Made By**: Abdullah Alotaibi
 - **Date**: November 2024
 - **Project**: Saudi Government Services Navigator
 
